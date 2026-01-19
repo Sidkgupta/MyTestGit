@@ -1,0 +1,17 @@
+[33mcommit 7fc283f159585d094d3b7999b867909f9af7af5a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Sidkgupta <guptasid1430@gmail.com>
+Date:   Mon Jan 19 13:52:16 2026 +0530
+
+    Initial commit
+
+[33mcommit c83253f4b4547247c34eee556f7f21125b13ad9c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: SiddharthGupta <60031154+Sidkgupta@users.noreply.github.com>
+Date:   Mon Jan 19 13:40:44 2026 +0530
+
+    Add NewTest.txt with sample test data
+
+[33mcommit 45011d58b7f9c5721799f8618cc9e3fe8b949804[m
+Author: SiddharthGupta <60031154+Sidkgupta@users.noreply.github.com>
+Date:   Mon Jan 19 13:37:52 2026 +0530
+
+    Initialize README with project title
